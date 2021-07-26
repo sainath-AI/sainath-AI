@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 I write texh blogs here **[Hashnode](https://subhamraoniar.com)**
+- 👨‍💻 I write texh blogs here **[Hashnode](https://hashnode.com/@sainath01)**
 
 - 📫 How to reach me **dukedustine123@gmail.com**
 
