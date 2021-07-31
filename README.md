@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ChatWithMe](https://github.com/sainath-AI/ChatWithMe)**
+- 🔭 I’m currently working on **[WallPaperX](https://github.com/sainath-AI/WallpaperX)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
