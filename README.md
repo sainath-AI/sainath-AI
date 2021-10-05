@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **[GooleMeet](https://github.com/MINTU325/GoogleMeet_Clone)**
 
-- 🔭 Check my Portfolio **[Portfolio](https://github.com/MINTU325/GoogleMeet_Clone)**
+- 🔭 Check my Portfolio **[Portfolio](https://sainath-ai.github.io/Sainath-s_Portfolio/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
