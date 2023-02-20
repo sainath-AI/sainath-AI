@@ -7,12 +7,12 @@
 </a>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sainath</h1>
-<h3 align="left">I'm a passionate Full Stack Android Developer from Bengalore,India.</h3>
+<h3 align="left">I'm a professional iOS Developer from Bengalore,India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at  **[Perennial Systems](https://perennialsys.com/)**
+- 🔭 I’m currently working at  **[phynart technologies](https://phynart.com/)**
 
 - 🔭 Check my Portfolio **[Portfolio](https://sainath-ai.github.io/Sainath-s_Portfolio/)**
 
