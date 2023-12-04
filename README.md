@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at  **[phynart technologies](https://phynart.com/)**
+- 🔭 I’m currently working at  **[Coforge](https://www.coforge.com/)**
 
 - 🔭 Check my Portfolio **[Portfolio](https://sainath-ai.github.io/Sainath-s_Portfolio/)**
 
